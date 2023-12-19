@@ -1,0 +1,30 @@
+div {
+  padding: 5px;
+  text-align: center;
+  margin: 10px;
+  color: black;
+  border: 2px solid blue;
+}
+
+.firstheader {
+    background-color: lightgreen;
+}
+
+#secondheader {
+    /* text-align: center; */
+    background-color: lightcyan;
+    color: black;
+}
+
+.description {
+    text-align: end;
+}
+
+.smalldesc {
+    color: black;
+}
+
+.ingredients {
+    text-align: left;
+}
+
